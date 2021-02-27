@@ -58,3 +58,6 @@ td {
 .footerelement:first-child {
 	margin-left: 0;
 }
+span {
+	display: inline-block;
+}
